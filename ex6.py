@@ -60,3 +60,8 @@ print(math.ceil(4))
 
 fatorial =  4 * 3 * 2 * 1
 print(fatorial)
+
+import math
+print(math.factorial)
+fatorial = 4 + 4
+pint(fatorial)
