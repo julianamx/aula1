@@ -64,4 +64,4 @@ print(fatorial)
 import math
 print(math.factorial)
 fatorial = 4 + 4
-pint(fatorial)
+print(fatorial)
